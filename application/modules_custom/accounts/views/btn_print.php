@@ -1,1 +1,0 @@
-<button name="btn_print" onclick="print();return false;" class="uibutton ui-button ui-widget ui-state-default ui-corner-all" style="float: right; margin-top: 10px; margin-right: 10px;padding-right:1em;padding-left:1em;padding-bottom:0.4em;padding-top:0.4em;font-size:0.7em;"><?php echo $this->lang->line('btn_print'); ?></button>
